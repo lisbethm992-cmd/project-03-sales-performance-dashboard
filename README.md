@@ -41,6 +41,12 @@ Analyze sales performance using Power BI to identify:
 - Use profitability insights to optimize sales strategies.
 - Monitor key performance indicators regularly to support data-driven decisions.
 
+- ## Project Files
+
+- Power BI Dashboard: `Sales_Performance_Dashboard.pbix`
+- Executive Summary: `Sales_Performance_Executive_Summary.pdf`
+- Dashboard Preview: `Dashboard_Preview.png`
+
 ## Project Information
 
 | Category | Details |
